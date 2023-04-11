@@ -6,6 +6,7 @@
 | 04월 01일  | [S5 2차원 배열의 합](https://www.acmicpc.net/problem/2167)<br>[G3 나머지 합](https://www.acmicpc.net/problem/10986) | 04월 02일  | [G5 개똥벌레](https://www.acmicpc.net/problem/3020) | 04월 03일 | [S1 인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139) |
 | 04월 04일  | [G4 고층건물](https://www.acmicpc.net/problem/1027) | 04월 05일  | [S3 블로그2](https://www.acmicpc.net/problem/20365) | 04월 06일  | [S3 서로 다른 부분문자열의 개수](https://www.acmicpc.net/problem/11478)<br>[S3 햄버거 분배](https://www.acmicpc.net/problem/19941) |
 | 04월 07일  | [S3 파일정리](https://www.acmicpc.net/problem/20291) | 04월 08일  | [S5 비밀번호 발음하기](https://www.acmicpc.net/problem/4659) | 04월 10일  | [G5 A와B 2](https://www.acmicpc.net/problem/12919) |
+| 04월 11일  | [S3 문자열 집합](https://www.acmicpc.net/problem/14425) |
 
 
 ## 3월
