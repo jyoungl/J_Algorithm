@@ -9,6 +9,7 @@
 | 04월 11일  | [S3 문자열 집합](https://www.acmicpc.net/problem/14425) | 04월 12일  | [S1 데스나이트](https://www.acmicpc.net/problem/16948) | 04월 13일  | [S2 소가 길을 건너간 이유5](https://www.acmicpc.net/problem/14465) |
 | 04월 16일  | [S4 어두운 굴다리](https://www.acmicpc.net/problem/17266) | 04월 18일  | [G5 두 용액](https://www.acmicpc.net/problem/2470) | 04월 19일  | [S1 기타레슨](https://www.acmicpc.net/problem/2343)<br>[G4 공유기설치](https://www.acmicpc.net/problem/2110)<br>[S2 나무자르기](https://www.acmicpc.net/problem/2805)
 | 04월 20일  | [G4 고냥이](https://www.acmicpc.net/problem/16472) | 04월 21일  | [S2 용돈관리](https://www.acmicpc.net/problem/6236) | 04월 22일  | [S3 게으른 백곰](https://www.acmicpc.net/problem/10025)
+| 04월 25일  | [S3 이건 꼭 풀어야해!](https://www.acmicpc.net/problem/17390)
 
 
 ## 3월
